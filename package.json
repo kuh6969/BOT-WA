@@ -12,7 +12,7 @@
   },
   "author": "mikel",
   "dependencies": {
-    "@adiwajshing/baileys": "^3.5.1",
+    "@adiwajshing/baileys": "^3.5.2",
     "axios": "^0.21.1",
     "brainly-scraper": "^1.0.3",
     "chalk": "^4.1.1",
@@ -39,10 +39,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rizkiadiasa/"
+    "url": "git+https://github.com/kuh6969/"
   },
   "bugs": {
-    "url": "https://github.com/rizkiadiasa/isues"
+    "url": "https://github.com/kuh6969/isues"
   },
-  "homepage": "https://github.com/rizkiadiasa#readme"
+  "homepage": "https://github.com/kuh6969#readme"
 }
