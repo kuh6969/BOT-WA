@@ -24,7 +24,7 @@ const twitterGetUrl = require("twitter-url-direct")
 const googleImage = require('g-i-s')
 const brainly = require('brainly-scraper')
 const fetch = require('node-fetch');
-const ggs = require('google-it')
+
 const request = require('request');
 const crypto = require('crypto')
 const yts = require( 'yt-search')
